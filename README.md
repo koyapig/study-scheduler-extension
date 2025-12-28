@@ -69,7 +69,7 @@ cp data/schedule_template.json data/user_schedule.json
 ```json
 {
   "time": "20:00-21:00",
-  "label": "AWS試験対策",
+  "label": "英語",
   "enabled": true,
   "active_months": ["January", "February", "March"]
 }
