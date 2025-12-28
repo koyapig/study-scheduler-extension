@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "aws_exam_month": "March"
+  },
+  "weekday": {
+    "monday": [
+      { "time": "20:00-20:40", "label": "Applied Information", "enabled": true },
+      { "time": "20:40-21:00", "label": "Go Practice", "enabled": true }
+    ],
+    "tuesday": [
+      {
+        "time": "20:00-20:40",
+        "label": "AWS Study",
+        "active_months": ["February", "March"],
+        "enabled": true
+      },
+      { "time": "20:40-21:00", "label": "Go Practice", "enabled": true }
+    ]
+  },
+  "weekend": {
+    "focus_day": {
+      "tasks": [
+        { "label": "Applied Information Summary", "enabled": true },
+        {
+          "label": "AWS Mock",
+          "active_months": ["February", "March"],
+          "enabled": true
+        }
+      ]
+    }
+  }
+}
+

@@ -1,0 +1,9 @@
+{
+  "weeks": [
+    { "week": 9, "focus": "AWS Aurora 집중" },
+    { "week": 10, "focus": "AWS Mock & Review" },
+    { "week": 11, "focus": "AWS Weak Points" },
+    { "week": 12, "focus": "AWS Exam Week" }
+  ]
+}
+
